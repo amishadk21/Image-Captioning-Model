@@ -1,6 +1,6 @@
 Machine Learning Image Captioning System
 
-<img width="1763" height="844" alt="image" src="https://github.com/user-attachments/assets/15a48e74-0d08-4631-88cb-a76746ce22b4" />
+<img width="1763" height="844" alt="image" src="https://github.com/user-attachments/assets/0d6df4cb-012a-4192-881f-72f79390854e" />
 
 
 Image captioning is a challenging task in the fields of computer vision and natural language processing that involves automatically generating descriptive captions for images. This project implements an intelligent image captioning system using deep learning techniques with the BLIP (Bootstrapping Language-Image Pre-training) model.
