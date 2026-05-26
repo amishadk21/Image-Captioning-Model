@@ -1,5 +1,8 @@
 Machine Learning Image Captioning System
 
+<img width="1763" height="844" alt="image" src="https://github.com/user-attachments/assets/15a48e74-0d08-4631-88cb-a76746ce22b4" />
+
+
 Image captioning is a challenging task in the fields of computer vision and natural language processing that involves automatically generating descriptive captions for images. This project implements an intelligent image captioning system using deep learning techniques with the BLIP (Bootstrapping Language-Image Pre-training) model.
 
 The system generates meaningful textual descriptions for uploaded images and allows users to customize caption generation settings such as caption length and beam search quality. A user-friendly web interface is developed using the Python library Streamlit, enabling users to upload images, generate captions, download results, and save captions for dataset creation.
@@ -30,6 +33,16 @@ Step 3: Run the Project
 Open terminal in the project folder and run:
 
 python -m streamlit run app.py
+
+ this path will locate in browser using local URL:
+ 
+ <img width="1005" height="566" alt="image" src="https://github.com/user-attachments/assets/f649aa8d-0681-4ed8-badb-1ef4cef3ff37" />
+
+<img width="1005" height="566" alt="image" src="https://github.com/user-attachments/assets/82ecce63-473a-4b21-bbcc-a33ee6940277" />
+
+<img width="1005" height="566" alt="image" src="https://github.com/user-attachments/assets/b35e69b2-e559-47c1-b08f-69642a3ca7fe" />
+
+
 
 Features of the System
 -Upload images (jpg, jpeg, png)
